@@ -1,0 +1,62 @@
+[
+    {
+        "timestamp": "2026-07-06T15:02:43.563191",
+        "session_id": "sess_1783329323",
+        "starter": "What are the biggest challenges you've seen in applying Azure to microservices?",
+        "feedback": "useful"
+    },
+    {
+        "timestamp": "2026-07-06T15:02:47.253218",
+        "session_id": "sess_1783329323",
+        "starter": "Given your background in microservices, where do you see Azure heading next?",
+        "feedback": "not useful"
+    },
+    {
+        "timestamp": "2026-07-06T15:02:49.048410",
+        "session_id": "sess_1783329323",
+        "starter": "Which Azure techniques do you think are most useful for microservices?",
+        "feedback": "useful"
+    },
+    {
+        "timestamp": "2026-07-06T15:14:13.383294",
+        "session_id": "sess_1783331031",
+        "starter": "What's a practical use case for AWS that actually worked well for you?",
+        "feedback": "useful"
+    },
+    {
+        "timestamp": "2026-07-06T15:14:15.814968",
+        "session_id": "sess_1783331031",
+        "starter": "How does your work with Kubernetes connect with AWS here at this event?",
+        "feedback": "not useful"
+    },
+    {
+        "timestamp": "2026-07-06T15:14:17.725615",
+        "session_id": "sess_1783331031",
+        "starter": "Which AWS techniques do you think are most useful for Kubernetes?",
+        "feedback": "not useful"
+    },
+    {
+        "timestamp": "2026-07-07T15:04:58.745449",
+        "session_id": "sess_1783416892",
+        "starter": "What's a practical use case for serverless computing that actually worked well for you?",
+        "feedback": "useful"
+    },
+    {
+        "timestamp": "2026-07-07T15:26:58.113526",
+        "session_id": "sess_1783418213",
+        "starter": "What's the most surprising thing you've learned about Azure recently?",
+        "feedback": "useful"
+    },
+    {
+        "timestamp": "2026-07-07T15:27:00.151237",
+        "session_id": "sess_1783418213",
+        "starter": "How does your work with microservices connect with Azure here at this event?",
+        "feedback": "not useful"
+    },
+    {
+        "timestamp": "2026-07-07T15:27:01.843952",
+        "session_id": "sess_1783418213",
+        "starter": "Given your background in microservices, where do you see Azure heading next?",
+        "feedback": "useful"
+    }
+]
