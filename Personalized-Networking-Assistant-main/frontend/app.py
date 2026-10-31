@@ -2,7 +2,7 @@ import streamlit as st
 import httpx
 
 # FastAPI backend entry point
-BACKEND_URL = "http://127.0.0.1:8000/api/v1"
+BACKEND_URL = st.secrets["BACKEND_URL"]
 
 st.set_page_config(page_title="Personalized Networking Assistant", layout="wide", page_icon="💼")
 
